@@ -1,4 +1,4 @@
-This document conatins the problem statement from The Daily Code Challenge.
+This document contains the problem statement from The Daily Code Challenge.
 
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 
